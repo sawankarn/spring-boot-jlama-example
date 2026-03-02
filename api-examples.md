@@ -1,5 +1,3 @@
-# Payment Support Chat API Examples
-
 ## API Endpoints
 
 ### 1. Basic Chat - `/chat`
